@@ -4,4 +4,22 @@
     <string name="we_are_committed_to_providing_supportive_environment_for_all_users_please_be_respectful_of_others_and_refrain_from_using_offensive_language_or_posting_harmful_content">We are committed to providing supportive environment for all users.Please be respectful of others and refrain from using offensive language or posting harmful content.</string>
     <string name="push_yourself_nto_the_limit">PUSH YOURSELF\nTO THE LIMIT</string>
     <string name="are_you_have_an_account">Are you have an account ? <font color="#fd511e">Sign in</font></string>
+    <string name="mohamed_mohamed">Mohamed Mohamed</string>
+    <string name="welcome_back">Welcome Back !</string>
+    <string name="search_workout">Search Workout…</string>
+    <string name="daily_monitoring">Daily Monitoring</string>
+    <string name="daily_calories">Daily Calories</string>
+    <string name="sleeping_time">Sleeping Time</string>
+    <string name="total_workout">Total Workout</string>
+    <string name="_11m_2w_5days">11m 2w 5days</string>
+    <string name="_7h_30min">7h 30min</string>
+    <string name="_3200">3200cal</string>
+    <string name="_20_min_beginner">20 min - Beginner</string>
+    <string name="twisted_nexercise">Twist\nExercise</string>
+    <string name="other_workout">Other Workout</string>
+    <string name="see_all">See All</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
 </resources>
