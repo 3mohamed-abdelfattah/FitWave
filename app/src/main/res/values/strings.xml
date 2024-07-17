@@ -27,4 +27,7 @@
     <string name="dot">\t• \t</string>
     <string name="title">title</string>
     <string name="_160_kcal">160 Kcal</string>
+    <string name="intermediate">Intermediate</string>
+    <string name="description">description</string>
+    <string name="start_workout">Start Workout</string>
 </resources>
