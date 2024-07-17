@@ -24,7 +24,7 @@
     <string name="profile">Profile</string>
     <string name="_20_min">20 min</string>
     <string name="exercise">Exercise</string>
-    <string name="dot">.</string>
+    <string name="dot">\t• \t</string>
     <string name="title">title</string>
     <string name="_160_kcal">160 Kcal</string>
 </resources>
