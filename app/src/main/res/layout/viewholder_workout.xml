@@ -26,7 +26,7 @@
         android:layout_margin="8dp"
         android:text="@string/title"
         android:textColor="@color/white"
-        android:textSize="12sp"
+        android:textSize="14sp"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="@+id/pic"
         app:layout_constraintTop_toBottomOf="@+id/pic" />
@@ -48,14 +48,16 @@
             android:layout_height="wrap_content"
             android:text="@string/_20_min"
             android:textColor="@color/white"
-            android:textSize="12sp" />
+            android:textSize="13sp" />
 
         <TextView
             android:id="@+id/textView9"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/dot"
-            android:textColor="@color/orange" />
+            android:textColor="@color/orange"
+            android:textSize="13sp"
+            android:textStyle="bold" />
 
         <TextView
             android:id="@+id/exerciseText"
@@ -63,14 +65,16 @@
             android:layout_height="wrap_content"
             android:text="@string/exercise"
             android:textColor="@color/white"
-            android:textSize="12sp" />
+            android:textSize="13sp" />
 
         <TextView
             android:id="@+id/textView15"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/dot"
-            android:textColor="@color/orange" />
+            android:textColor="@color/orange"
+            android:textSize="13sp"
+            android:textStyle="bold" />
 
         <TextView
             android:id="@+id/kcalText"
@@ -78,6 +82,6 @@
             android:layout_height="wrap_content"
             android:text="@string/_160_kcal"
             android:textColor="@color/white"
-            android:textSize="12sp" />
+            android:textSize="13sp" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
