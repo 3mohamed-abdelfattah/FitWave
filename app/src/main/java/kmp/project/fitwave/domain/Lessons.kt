@@ -1,5 +1,10 @@
 package kmp.project.fitwave.domain
 
-data class Lessons(var title: String, var duration: String, var link: String, var picPath: String) {
+import java.io.Serializable
 
-}
+data class Lessons(
+    val title: String,
+    val duration: String,
+    val link: String,
+    val picPath: String
+) : Serializable

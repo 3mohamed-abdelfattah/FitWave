@@ -141,25 +141,25 @@ class MainActivity : AppCompatActivity() {
 
     private fun getLessons_1(): ArrayList<Lessons> {
         val list = ArrayList<Lessons>()
-        list.add(Lessons("Lesson 1", "03:46", "HBPMvKfpgE", "pic_1_1"))
-        list.add(Lessons("Lesson 2", "04:41", "K6J2WqiiPw", "pic_1_2"))
-        list.add(Lessons("Lesson 3", "01:57", "Zc084YY0EA", "pic_1_3"))
+        list.add(Lessons("Lesson 1", "30:05", "YMd75yd17zs", "pic_1_1"))
+        list.add(Lessons("Lesson 2", "04:41", "AIM_p46cua8", "pic_1_2"))
+        list.add(Lessons("Lesson 3", "13:26", "TjVp-uoTviA", "pic_1_3"))
         return list
     }
 
     private fun getLessons_2(): ArrayList<Lessons> {
         val list = ArrayList<Lessons>()
-        list.add(Lessons("Lesson 1", "20:23", "lJeImBAXT7I", "pic_3_1"))
-        list.add(Lessons("Lesson 2", "20:27", "47Exgz07FU", "pic_3_2"))
-        list.add(Lessons("Lesson 3", "32:25", "OmLx8tmaqQ4", "pic_3_3"))
-        list.add(Lessons("Lesson 4", "07:52", "w86EaIoFRY", "pic_3_4"))
+        list.add(Lessons("Lesson 1", "11:23", "hNCqIgl7Pjc", "pic_3_1"))
+        list.add(Lessons("Lesson 2", "10:37", "EvF_Jnf9jwg", "pic_3_2"))
+        list.add(Lessons("Lesson 3", "16:32", "g_tea8ZNk5A", "pic_3_3"))
+        list.add(Lessons("Lesson 4", "10:07", "ehXOS9mMrcU", "pic_3_4"))
         return list
     }
 
     private fun getLessons_3(): ArrayList<Lessons> {
         val list = ArrayList<Lessons>()
-        list.add(Lessons("Lesson 1", "23:00", "v7AYKMP6rOE", "pic_3_1"))
-        list.add(Lessons("Lesson 2", "27:00", "EmL2xnoLPYE", "pic_3_2"))
+        list.add(Lessons("Lesson 1", "22:40", "Eml2xnoLpYE", "pic_3_1"))
+        list.add(Lessons("Lesson 2", "34:00", "IYSkQLXbtHE", "pic_3_2"))
         list.add(Lessons("Lesson 3", "25:00", "v7SN-d4Qx0", "pic_3_3"))
         list.add(Lessons("Lesson 4", "21:00", "LqX628YNj4", "pic_3_4"))
         return list
@@ -198,7 +198,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun getLessons_7(): ArrayList<Lessons> {
         val list = ArrayList<Lessons>()
-        list.add(Lessons("Lesson 1", "23:00", "v7AYKMP6rOE", "pic_3_1"))
+        list.add(Lessons("Lesson 1", "36:00", "e26cGbL8sUs", "pic_3_1"))
         list.add(Lessons("Lesson 2", "27:00", "EmL2xnoLPYE", "pic_3_2"))
         list.add(Lessons("Lesson 3", "25:00", "v7SN-d4Qx0", "pic_3_3"))
         list.add(Lessons("Lesson 4", "21:00", "LqX628YNj4", "pic_3_4"))
@@ -208,23 +208,12 @@ class MainActivity : AppCompatActivity() {
 
     private fun getLessons_8(): ArrayList<Lessons> {
         val list = ArrayList<Lessons>()
-        list.add(Lessons("Lesson 1", "23:00", "v7AYKMP6rOE", "pic_3_1"))
+        list.add(Lessons("Lesson 1", "16:00", "XmFQE-PsBl0", "pic_3_1"))
         list.add(Lessons("Lesson 2", "27:00", "EmL2xnoLPYE", "pic_3_2"))
         list.add(Lessons("Lesson 3", "25:00", "v7SN-d4Qx0", "pic_3_3"))
         list.add(Lessons("Lesson 4", "21:00", "LqX628YNj4", "pic_3_4"))
         return list
     }
-
-
-    private fun getLessons_9(): ArrayList<Lessons> {
-        val list = ArrayList<Lessons>()
-        list.add(Lessons("Lesson 1", "23:00", "v7AYKMP6rOE", "pic_3_1"))
-        list.add(Lessons("Lesson 2", "27:00", "EmL2xnoLPYE", "pic_3_2"))
-        list.add(Lessons("Lesson 3", "25:00", "v7SN-d4Qx0", "pic_3_3"))
-        list.add(Lessons("Lesson 4", "21:00", "LqX628YNj4", "pic_3_4"))
-        return list
-    }
-
 
     private fun getLessons_10(): ArrayList<Lessons> {
         val list = ArrayList<Lessons>()
