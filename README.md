@@ -45,7 +45,10 @@ Welcome to **FitWave**, your ultimate fitness app for tracking workouts, monitor
 ---
 ## Snapshot from my Device
 
-https://github.com/user-attachments/assets/4218573c-3b7d-4c56-9bdb-bd664a282e23
+
+https://github.com/user-attachments/assets/3d3808c4-d53b-485e-8857-886e6b5bf840
+
+
 
 ## Contributing
 
