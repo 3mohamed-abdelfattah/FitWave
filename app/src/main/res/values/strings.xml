@@ -30,4 +30,5 @@
     <string name="intermediate">Intermediate</string>
     <string name="description">description</string>
     <string name="start_workout">Start Workout</string>
+    <string name="_00_00">00 00</string>
 </resources>
