@@ -19,6 +19,8 @@ Welcome to **FitWave**, your ultimate fitness app for tracking workouts, monitor
 
 ## Screenshots
 
+<img src="https://github.com/user-attachments/assets/b67a0fb9-e214-4cf8-b502-0a116f82ac72" alt="FitWave App" width="300"/>
+
 <img src="https://github.com/user-attachments/assets/9a5ed8fa-5dbc-4e1e-aa87-81c6d1b25fb9" alt="FitWave App" width="300"/>
 <img src="https://github.com/user-attachments/assets/8ce1bae2-a9fa-419d-8cd8-d4d8bdc58c0b" alt="FitWave App" width="300"/>
 <img src="https://github.com/user-attachments/assets/2a019c99-bd21-4a9d-82f4-d4f7cde1886e" alt="FitWave App" width="300"/>
