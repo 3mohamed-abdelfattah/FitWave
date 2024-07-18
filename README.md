@@ -19,14 +19,12 @@ Welcome to **FitWave**, your ultimate fitness app for tracking workouts, monitor
 
 ## Screenshots
 
-<img src="https://github.com/user-attachments/assets/b67a0fb9-e214-4cf8-b502-0a116f82ac72" alt="FitWave App" width="300"/>
-
-<img src="https://github.com/user-attachments/assets/9a5ed8fa-5dbc-4e1e-aa87-81c6d1b25fb9" alt="FitWave App" width="300"/>
-<img src="https://github.com/user-attachments/assets/8ce1bae2-a9fa-419d-8cd8-d4d8bdc58c0b" alt="FitWave App" width="300"/>
-<img src="https://github.com/user-attachments/assets/2a019c99-bd21-4a9d-82f4-d4f7cde1886e" alt="FitWave App" width="300"/>
-<img src="https://github.com/user-attachments/assets/fe4d4051-0d4b-42ad-ae8f-bbdb862f8df5" alt="FitWave App" width="300"/>
-<img src="https://github.com/user-attachments/assets/e136ed6c-30e4-462c-b76f-410dcaadb1ae" alt="FitWave App" width="300"/>
-<img src="https://github.com/user-attachments/assets/ca7ca0da-3b67-4936-b650-6220e5144eaf" alt="FitWave App" width="300"/>
+<img src="https://github.com/user-attachments/assets/b67a0fb9-e214-4cf8-b502-0a116f82ac72" alt="FitWave App" width="330"/>
+<img src="https://github.com/user-attachments/assets/41afc4f6-7576-4650-b008-85b3ef2f51c5" alt="FitWave App" width="330"/>
+<img src="https://github.com/user-attachments/assets/2ac39d82-c5cf-4b6b-a84b-6971ea80155d" alt="FitWave App" width="330"/>
+<img src="https://github.com/user-attachments/assets/d2ffd7fa-5025-4b3b-9359-183c517959e0" alt="FitWave App" width="330"/>
+<img src="https://github.com/user-attachments/assets/e891d67b-064e-4b42-bc3e-69b3aa9b0616" alt="FitWave App" width="330"/>
+<img src="https://github.com/user-attachments/assets/bb1b2813-cdff-4d01-88ea-bf446dd5b56c" alt="FitWave App" width="330"/>
 
 ---
 ## Screenshots from my Environment
