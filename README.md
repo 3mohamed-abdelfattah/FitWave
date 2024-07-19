@@ -7,7 +7,6 @@ Welcome to **FitWave**, your ultimate fitness app for tracking workouts, monitor
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [CodeAlpha Internship](#codealpha-app-development-internship)
 
 ## Features
 
